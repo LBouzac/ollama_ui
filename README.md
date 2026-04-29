@@ -9,7 +9,7 @@ Application Vue 3 + Vite pour discuter avec un modèle [Ollama](https://ollama.c
 - Un modèle téléchargé, par exemple `llama3.2`
 
 ```bash
-ollama pull llama3.2
+ollama pull mistral:7b-instruct-v0.3-q4_0
 ```
 
 ## Installation
